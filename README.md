@@ -1,5 +1,8 @@
-# Intermediate Python Course
+Hey there,
 
-Hey there, 
+This program is written by me to get me out of boredom.
+You can roll any number of dice and dice of any side.  
+If I ever feel bored again, maybe I will add some board games.
 
-In this course you will create a dice-rolling program using python. The code you create will be stored in the dice-roller.py file. This repo also contains course materials under the issues tab. 
+Your friendly neighborhood geek,
+Anubhav
